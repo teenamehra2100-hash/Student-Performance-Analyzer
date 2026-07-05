@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Student Performance Analyzer Banner" width="100%">
+</p>
+
+
 # 🎓 Student Performance Analyzer
 
 A beginner-friendly **Python Data Analysis** project that explores student academic performance using real-world educational data. This project demonstrates data cleaning, exploratory data analysis (EDA), and visualization techniques to uncover insights into the factors that influence student success.
